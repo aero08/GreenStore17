@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "308146215615",
+    "firebase_url": "https://greenstore17-d0738.firebaseio.com",
+    "project_id": "greenstore17-d0738",
+    "storage_bucket": "greenstore17-d0738.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308146215615:android:51aa65230bab9910c2c40a",
+        "android_client_info": {
+          "package_name": "com.example.android.greenstore17"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308146215615-dht9jop1g19u5v50l8rf62om8gvi76s7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.greenstore17",
+            "certificate_hash": "fff1a902bbf01513371f638c7c2429859302d3b0"
+          }
+        },
+        {
+          "client_id": "308146215615-5g1fuudqefpjtsco29d0c4e8oj2kl4lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBekd3g5vo0r5BfBh70_GwIxE2P3fvyQgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308146215615-5g1fuudqefpjtsco29d0c4e8oj2kl4lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
